@@ -1,4 +1,4 @@
-# task-manager
+# Store-API
 Store Api created with NodeJS and MongoDB while learning from Coding.
 Code Addict: https://www.youtube.com/watch?v=rltfdjcXjmk&t=8690s
 
